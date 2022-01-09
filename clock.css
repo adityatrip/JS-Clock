@@ -1,0 +1,7 @@
+:root {
+    text-align: center;
+}
+/* root css has to be upper most */
+h1 {
+    font-family:Georgia;
+};
